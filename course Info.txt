@@ -1,3 +1,0 @@
-Course Name : Writing Professional Code
-Course code : 1234
-Course Tutor: Susmoy Barman
